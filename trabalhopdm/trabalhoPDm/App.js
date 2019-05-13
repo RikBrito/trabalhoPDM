@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import home from '.../src/home/index.js';
+import home from 'C:/Users/Pichau/Documents/programas/trabalhoPDM/trabalhopdm/trabalhoPDm/src/pages/home/index.js';
 export default class App extends React.Component {
   render() {
     return ( home );

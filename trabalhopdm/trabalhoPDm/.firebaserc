@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "events-cdb1c",
+    "start": "events-cdb1c"
+  }
+}
